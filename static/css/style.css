@@ -1,0 +1,9 @@
+.main{
+    display: flex ;
+    border: 1vw;
+    background-color: aqua;
+    justify-content: space-around;
+    border-color: black;
+    height: 30vh;
+    align-items: center;
+}
